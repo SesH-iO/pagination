@@ -1,0 +1,670 @@
+{
+  "programs": [
+    {
+      "id": "1",
+      "icon": "",
+      "title": "Engineering"
+    },
+    {
+      "id": "2",
+      "icon": "",
+      "title": "Data Science"
+    },
+    {
+      "id": "3",
+      "icon": "",
+      "title": "Aerospace Engineering"
+    },
+    {
+      "id": "4",
+      "icon": "",
+      "title": "Civil Engineering"
+    },
+    {
+      "id": "5",
+      "icon": "",
+      "title": "Mechanical Engineering"
+    },
+    {
+      "id": "6",
+      "icon": "",
+      "title": "Art History"
+    },
+    {
+      "id": "7",
+      "icon": "",
+      "title": "biology"
+    },
+    {
+      "id": "8",
+      "icon": "",
+      "title": "chemistry"
+    }
+  ],
+
+  "blogs": [
+    {
+      "id": "1",
+      "content": "Why I decided to study in the USA? Find out more",
+      "username": "Chole",
+      "userImg": "https://i.ibb.co/rbq3d8D/user-1.jpg",
+      "date": "July 20, 2021",
+      "blogImg": "https://i.ibb.co/LrSSpjS/blog-3.jpg"
+    },
+    {
+      "id": "2",
+      "content": "Why I decided to study in the USA? Find out more",
+      "username": "John",
+      "userImg": "https://i.ibb.co/n8Y68Y0/user-2.jpg",
+      "date": "July 20, 2021",
+      "blogImg": "https://i.ibb.co/LrSSpjS/blog-3.jpg"
+    },
+    {
+      "id": "3",
+      "content": "Why I decided to study in the USA? Find out more",
+      "username": "Jeff",
+      "userImg": "https://i.ibb.co/CVBxgTK/user-3.jpg",
+      "date": "July 20, 2021",
+      "blogImg": "https://i.ibb.co/LrSSpjS/blog-3.jpg"
+    },
+    {
+      "id": "4",
+      "content": "Why I decided to study in the USA? Find out more",
+      "username": "Alexander",
+      "userImg": "https://i.ibb.co/YpFGTXw/user-4.jpg",
+      "date": "July 20, 2021",
+      "blogImg": "https://i.ibb.co/LrSSpjS/blog-3.jpg"
+    },
+    {
+      "id": "5",
+      "content": "Why I decided to study in the USA? Find out more",
+      "username": "Jeff",
+      "userImg": "https://i.ibb.co/CVBxgTK/user-3.jpg",
+      "date": "July 20, 2021",
+      "blogImg": "https://i.ibb.co/LrSSpjS/blog-3.jpg"
+    },
+    {
+      "id": "6",
+      "content": "Why I decided to study in the USA? Find out more",
+      "username": "Jeff",
+      "userImg": "https://i.ibb.co/CVBxgTK/user-3.jpg",
+      "date": "July 20, 2021",
+      "blogImg": "https://i.ibb.co/LrSSpjS/blog-3.jpg"
+    }
+  ],
+
+  "courses": [
+    {
+      "id": "1",
+      "country": "USA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "2",
+      "country": "USA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "3",
+      "country": "USA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "4",
+      "country": "USA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "5",
+      "country": "CANADA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "6",
+      "country": "CANADA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "7",
+      "country": "AUSTRAILIA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "8",
+      "country": "AUSTRAILIA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "9",
+      "country": "AUSTRAILIA",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "10",
+      "country": "United Kingdom",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "11",
+      "country": "United Kingdom",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "12",
+      "country": "United Kingdom",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "13",
+      "country": "FRANCE",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "14",
+      "country": "FRANCE",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "15",
+      "country": "GERMANY",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "16",
+      "country": "GERMANY",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "17",
+      "country": "OTHERS",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    },
+    {
+      "id": "18",
+      "country": "OTHERS",
+      "university": "Harvard University",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit",
+      "btnText": "QUICK VIEW",
+      "logo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png"
+    }
+  ],
+
+  "universities": [
+    {
+      "id": "1",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 111,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 222,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 333,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 444,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 555,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 666,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 777,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 888,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 999,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1010,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1111,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1212,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1313,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1414,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1515,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1515,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "universityTitle": "Central Queensland University",
+      "universityLocation": "Melbourne, Victoria, Autrailia",
+      "universityLogo": "https://i.ibb.co/b3c2JzG/5842f68fa6515b1e0ad75b22.png",
+      "fetures": [
+        {
+          "id": 1515,
+          "instituteIcon": "",
+          "institute": "Private Institute",
+          "RankIcon": "",
+          "Rank": "20",
+          "coursesIcon": "",
+          "courses": "134 Courses",
+          "premiumCoursesIcon": "",
+          "premiumCourses": "64 Courses",
+          "coursesMedicIcon": "",
+          "coursesMedic": "100 Courses",
+          "admittedIcon": "",
+          "admitted": "14 ERXIANs Admitted",
+          "appliedIcon": "",
+          "applied": "15 ERXIANs Applied"
+        }
+      ]
+    }
+  ]
+}
